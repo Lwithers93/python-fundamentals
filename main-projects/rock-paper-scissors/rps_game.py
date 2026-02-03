@@ -1,5 +1,5 @@
-# This is a rock paper scissors game to practice using variables in an if statement as well as
-# getting user input and importing a random number function.
+# This is a rock paper scissors game to practice using variables in an if statement
+# as well as getting user input and importing a random number function.
 
 import random
 
@@ -60,7 +60,7 @@ while playing == "y":
     # new line
     print("")
     # display scores
-    print(f"The score is: ")
+    print("The score is: ")
     print(f"User: {user_score} | Computer: {comp_score}")
 
     # display who is winning overall
