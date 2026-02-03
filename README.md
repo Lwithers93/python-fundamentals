@@ -1,9 +1,19 @@
 # Python Fundamentals
 
-## What this is
+## Overview
 
-This is a collection of python excercises/tasks completed as part of a structured Python bootcamp, covering core language features, data processing and problem-solving patterns.
+This repository contains a collection of Python exercises and small projects completed as part of a structured Python bootcamp, alongside additional independent practice. The work focuses on core Python language features, problem-solving, and basic data processing patterns.
 
-## Basic Testing
+## Repository Structure
 
-Basic pytest tests are included to validate game outcomes by mocking user input and random choice.
+### tasks
+
+A collection of smaller exercises completed during the bootcamp to practise Python fundamentals such as control flow, functions, and working with data.
+
+### main-projects
+
+A set of more complete projects and small games, completed either as part of the bootcamp or independently to reinforce learning and apply concepts in a practical context.
+
+## Testing
+
+Basic pytest tests are included for some projects to validate expected behaviour. These tests demonstrate mocking of user input and randomness to test interactive scripts (see the `rock-paper-scissors` project).
